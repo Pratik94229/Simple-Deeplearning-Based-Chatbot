@@ -1,0 +1,5 @@
+nltk
+numpy
+tensorflow
+flask
+gunicorn==20.1.0
